@@ -10,7 +10,7 @@ Python | Machine Learning | Deep Learning | Generative AI | Agentic AI | SQL
 
 I'm an aspiring AI & ML Engineer passionate about building practical AI systems using Python, Machine Learning, Deep Learning, Generative AI, and Agentic AI.
 
-🎯 Currently looking for AI/ML Engineer Internship opportunities.
+🎯 Open to AI/ML Engineer Internships | Entry-Level AI/ML Opportunities
 
 ---
 
